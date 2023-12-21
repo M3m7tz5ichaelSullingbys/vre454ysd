@@ -1,3 +1,5 @@
 Fix issue in Y [K2ymgM] line 5.2
 Add test case for W [Lqb2Pa] line 6.2
 Improve performance [YoC5m8] line 12.1
+Update documentation [URuuEa] line 13.1
+Update documentation [URuuEa] line 13.2
