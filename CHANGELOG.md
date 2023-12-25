@@ -6,3 +6,4 @@ Add test case for W [Lqb2Pa] line 6.3
 Add test case for W [3rFrCl] line 7.1
 Update documentation [iXeayI] line 8.1
 Update documentation [iXeayI] line 8.2
+Add feature for X [a8Hx3Q] line 9.1
